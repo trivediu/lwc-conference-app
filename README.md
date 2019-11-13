@@ -1,2 +1,2 @@
 # lwc-conference-app
-Lightening Web Component Conference App
+LWC Conference App
